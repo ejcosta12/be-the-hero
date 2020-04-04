@@ -9,6 +9,5 @@ Ferramentas
 Execução (CLI) - npm start
 
 Teste e conexão: http://localhost:3333 
-
 Recomendado Insomnia para testes a API.
 
