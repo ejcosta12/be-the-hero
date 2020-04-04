@@ -15,7 +15,7 @@
 
 <h2> React JS </h2>
 
-- Create React Aph2p
+- Create React App
 - Axios - Cliente HTTP (promises), manipulador de pedidos
 - React Router - Gerenciamento de rotas
 - Jest - Testes
